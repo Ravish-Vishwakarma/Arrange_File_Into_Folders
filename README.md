@@ -2,8 +2,7 @@
 This is a python script which organize files into folder based on their types
 
 ## How To Use
-1. Place this script in the place where you want to organize the files and then run it and define the settings
-Install the `questionary` library using `pip install questionary` or run:
+1. Install the `questionary` library using `pip install questionary` or run:
     ```
     pip install -r requirements.txt
     ```
