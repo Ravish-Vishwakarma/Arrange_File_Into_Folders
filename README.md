@@ -6,7 +6,7 @@ This is a python script which organize files into folder based on their types
     ```
     pip install -r requirements.txt
     ```
-2. Place the main.py folder in the folder you want to organize and then run the python file
+2. Place the main.py file in the folder you want to organize and then run the python file (The main.py or the python file itself will not going to be moved so don't worry about that)
 
 ## Example
 Folder Before Running The Script
